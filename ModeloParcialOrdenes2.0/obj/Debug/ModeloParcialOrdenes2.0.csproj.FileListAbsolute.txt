@@ -9,3 +9,14 @@ D:\Facu\Programacion\ModeloParcialOrdenes2.0\bin\Debug\ModeloParcialOrdenes2.0.e
 D:\Facu\Programacion\ModeloParcialOrdenes2.0\bin\Debug\ModeloParcialOrdenes2.0.pdb
 D:\Facu\Programacion\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.exe
 D:\Facu\Programacion\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.pdb
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\bin\Debug\ModeloParcialOrdenes2.0.exe.config
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\bin\Debug\ModeloParcialOrdenes2.0.exe
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\bin\Debug\ModeloParcialOrdenes2.0.pdb
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.csproj.AssemblyReference.cache
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2._0.frmOrdenes.resources
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2._0.Properties.Resources.resources
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.csproj.GenerateResource.cache
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.csproj.CoreCompileInputs.cache
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.exe
+D:\Facu\Prog_2\ModeloParcialOrdenes2.0\obj\Debug\ModeloParcialOrdenes2.0.pdb

@@ -87,5 +87,30 @@ namespace ModeloParcialOrdenes2._0
                 }
             }
         }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            DialogResult conf = MessageBox.Show("Seguro desea cancelar la orden?", "Cancelar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (conf == DialogResult.Yes)
+            {
+                this.Dispose();
+            }
+        }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            DialogResult conf = MessageBox.Show("Seguro desea cargar esta orden?", "Confirmar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (conf == DialogResult.Yes)
+            {
+                if (servicio.CargarOrden(oOrden))
+                {
+                    MessageBox.Show("Se cargo con exito la orden", "Exito!!!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                }
+                else
+                {
+                    MessageBox.Show("No se pudo cargar la orden", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
     }
 }

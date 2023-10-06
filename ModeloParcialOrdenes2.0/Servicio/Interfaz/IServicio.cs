@@ -10,5 +10,6 @@ namespace ModeloParcialOrdenes2._0.Servicio.Interfaz
     public interface IServicio
     {
          List<Material> CargarMateriales();
+        bool CargarOrden(OrdenRetiro oOrden);
     }
 }

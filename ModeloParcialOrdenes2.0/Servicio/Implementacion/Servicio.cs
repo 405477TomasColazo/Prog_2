@@ -22,5 +22,10 @@ namespace ModeloParcialOrdenes2._0.Servicio.Implementacion
         {
             return dao.CargarMateriales();
         }
+
+        public bool CargarOrden(OrdenRetiro oOrden)
+        {
+            return dao.CargarOrden(oOrden);
+        }
     }
 }

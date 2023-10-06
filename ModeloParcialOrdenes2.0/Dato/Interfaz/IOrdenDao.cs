@@ -10,5 +10,6 @@ namespace ModeloParcialOrdenes2._0.Dato.Interfaz
     public interface IOrdenDao
     {
         List<Material> CargarMateriales();
+        bool CargarOrden(OrdenRetiro oOrden);
     }
 }
