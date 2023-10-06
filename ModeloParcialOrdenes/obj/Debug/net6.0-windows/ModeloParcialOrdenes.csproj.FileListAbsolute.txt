@@ -1,0 +1,17 @@
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.csproj.AssemblyReference.cache
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.Form1.resources
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.csproj.GenerateResource.cache
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.AssemblyInfoInputs.cache
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.AssemblyInfo.cs
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\ModeloParcialOrdenes\bin\Debug\net6.0-windows\ModeloParcialOrdenes.exe
+D:\Facu\Programacion\ModeloParcialOrdenes\bin\Debug\net6.0-windows\ModeloParcialOrdenes.deps.json
+D:\Facu\Programacion\ModeloParcialOrdenes\bin\Debug\net6.0-windows\ModeloParcialOrdenes.runtimeconfig.json
+D:\Facu\Programacion\ModeloParcialOrdenes\bin\Debug\net6.0-windows\ModeloParcialOrdenes.dll
+D:\Facu\Programacion\ModeloParcialOrdenes\bin\Debug\net6.0-windows\ModeloParcialOrdenes.pdb
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.dll
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\refint\ModeloParcialOrdenes.dll
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.pdb
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ModeloParcialOrdenes.genruntimeconfig.cache
+D:\Facu\Programacion\ModeloParcialOrdenes\obj\Debug\net6.0-windows\ref\ModeloParcialOrdenes.dll

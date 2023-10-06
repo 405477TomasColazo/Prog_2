@@ -1,0 +1,11 @@
+D:\Facu\Programacion\test sql\bin\Debug\test sql.exe.config
+D:\Facu\Programacion\test sql\bin\Debug\test sql.exe
+D:\Facu\Programacion\test sql\bin\Debug\test sql.pdb
+D:\Facu\Programacion\test sql\obj\Debug\test sql.csproj.AssemblyReference.cache
+D:\Facu\Programacion\test sql\obj\Debug\test sql.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion\test sql\obj\Debug\test_sql.Form1.resources
+D:\Facu\Programacion\test sql\obj\Debug\test_sql.Properties.Resources.resources
+D:\Facu\Programacion\test sql\obj\Debug\test sql.csproj.GenerateResource.cache
+D:\Facu\Programacion\test sql\obj\Debug\test sql.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\test sql\obj\Debug\test sql.exe
+D:\Facu\Programacion\test sql\obj\Debug\test sql.pdb

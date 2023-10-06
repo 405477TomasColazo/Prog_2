@@ -1,0 +1,11 @@
+D:\Facu\Programacion\Venta pastelitos\bin\Debug\Venta pastelitos.exe.config
+D:\Facu\Programacion\Venta pastelitos\bin\Debug\Venta pastelitos.exe
+D:\Facu\Programacion\Venta pastelitos\bin\Debug\Venta pastelitos.pdb
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta pastelitos.csproj.AssemblyReference.cache
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta pastelitos.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta_pastelitos.Form1.resources
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta_pastelitos.Properties.Resources.resources
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta pastelitos.csproj.GenerateResource.cache
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta pastelitos.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta pastelitos.exe
+D:\Facu\Programacion\Venta pastelitos\obj\Debug\Venta pastelitos.pdb

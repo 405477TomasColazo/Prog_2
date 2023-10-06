@@ -1,0 +1,23 @@
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\bin\Debug\SimulacroParcial1.exe.config
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\bin\Debug\SimulacroParcial1.exe
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\bin\Debug\SimulacroParcial1.pdb
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.Presentacion.FrmPrincipal.resources
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.Presentacion.FrmRegistrarOrdenRetiro.resources
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.exe
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.pdb
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\bin\Debug\SimulacroParcial1.exe.config
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\bin\Debug\SimulacroParcial1.exe
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\bin\Debug\SimulacroParcial1.pdb
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.csproj.AssemblyReference.cache
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.Presentacion.FrmPrincipal.resources
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.Presentacion.FrmRegistrarOrdenRetiro.resources
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.Properties.Resources.resources
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.csproj.GenerateResource.cache
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.exe
+D:\Facu\Programacion\SimulacroParcial1\SimulacroParcial1\obj\Debug\SimulacroParcial1.pdb

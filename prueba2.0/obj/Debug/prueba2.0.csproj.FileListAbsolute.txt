@@ -1,0 +1,11 @@
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2.0.csproj.AssemblyReference.cache
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2.0.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2._0.Form1.resources
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2._0.Properties.Resources.resources
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2.0.csproj.GenerateResource.cache
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2.0.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\prueba2.0\bin\Debug\prueba2.0.exe.config
+D:\Facu\Programacion\prueba2.0\bin\Debug\prueba2.0.exe
+D:\Facu\Programacion\prueba2.0\bin\Debug\prueba2.0.pdb
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2.0.exe
+D:\Facu\Programacion\prueba2.0\obj\Debug\prueba2.0.pdb

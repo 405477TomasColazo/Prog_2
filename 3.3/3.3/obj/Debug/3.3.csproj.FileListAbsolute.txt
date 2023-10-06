@@ -1,0 +1,8 @@
+D:\Facu\Programacion\3.3\3.3\bin\Debug\3.3.exe.config
+D:\Facu\Programacion\3.3\3.3\bin\Debug\3.3.exe
+D:\Facu\Programacion\3.3\3.3\bin\Debug\3.3.pdb
+D:\Facu\Programacion\3.3\3.3\obj\Debug\3.3.csproj.AssemblyReference.cache
+D:\Facu\Programacion\3.3\3.3\obj\Debug\3.3.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion\3.3\3.3\obj\Debug\3.3.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\3.3\3.3\obj\Debug\3.3.exe
+D:\Facu\Programacion\3.3\3.3\obj\Debug\3.3.pdb

@@ -1,0 +1,16 @@
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\bin\Debug\EquipoApp.exe.config
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\bin\Debug\EquipoApp.exe
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\bin\Debug\EquipoApp.pdb
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\obj\Debug\EquipoApp.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\obj\Debug\EquipoApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\obj\Debug\EquipoApp.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\obj\Debug\EquipoApp.exe
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\EquipoApp\obj\Debug\EquipoApp.pdb
+D:\Facu\Programacion\EquipoApp\bin\Debug\EquipoApp.exe.config
+D:\Facu\Programacion\EquipoApp\bin\Debug\EquipoApp.exe
+D:\Facu\Programacion\EquipoApp\bin\Debug\EquipoApp.pdb
+D:\Facu\Programacion\EquipoApp\obj\Debug\EquipoApp.csproj.AssemblyReference.cache
+D:\Facu\Programacion\EquipoApp\obj\Debug\EquipoApp.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion\EquipoApp\obj\Debug\EquipoApp.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\EquipoApp\obj\Debug\EquipoApp.exe
+D:\Facu\Programacion\EquipoApp\obj\Debug\EquipoApp.pdb

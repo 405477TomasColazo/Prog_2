@@ -1,0 +1,11 @@
+D:\Facu\Programacion\LigaCordobesaFutbol\bin\Debug\LigaCordobesaFutbol.exe.config
+D:\Facu\Programacion\LigaCordobesaFutbol\bin\Debug\LigaCordobesaFutbol.exe
+D:\Facu\Programacion\LigaCordobesaFutbol\bin\Debug\LigaCordobesaFutbol.pdb
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.csproj.AssemblyReference.cache
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.Properties.Resources.resources
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.frmRegistroEquipos.resources
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.csproj.GenerateResource.cache
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.exe
+D:\Facu\Programacion\LigaCordobesaFutbol\obj\Debug\LigaCordobesaFutbol.pdb
